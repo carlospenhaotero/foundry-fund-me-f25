@@ -1,7 +1,7 @@
 This is a crownd sourcing app!
 
-#Getting started
+# Getting started
 
-##Requirements
+## Requirements
 
-##Quickstart
+## Quickstart
